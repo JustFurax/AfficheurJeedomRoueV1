@@ -18,10 +18,13 @@ Via Jeeduino on active ou désactivé les sorties de l'ESP, puis l'arduino va li
   <img src="https://github.com/JustFurax/AfficheurJeedomV1/assets/32780530/3a7350e5-6982-4977-9ef9-c9d10f4682a2" alt="Description de l'image">
 </p>
 <br/>
-Cela permet d'afficher une information que jeedom à avec des led (ouvertures fenetres, portes, alarme)<br/>
+Cela permet d'afficher une information que jeedom à avec des led (ouvertures fenetres, portes, alarme)<br/><br/>
 
 Les fichiers de la façade en plexiglas et de la boîte imprimée en 3D sont aussi disponibles.<br/>
 <p align="center">
   <img src="https://github.com/JustFurax/AfficheurJeedomV1/assets/32780530/f0d58153-fbca-45e8-9059-841038065e24" alt="Description de l'image">
 </p>
 
+Sous licence creactive commons BY-NC 4.0<br/>
+
+Contact pour questions : Twitter JustFurax
